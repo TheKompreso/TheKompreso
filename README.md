@@ -36,29 +36,29 @@
 - [HTML Шаблоны](https://github.com/TheKompreso/html-page-templates) - простые шаблоны веб-страниц. Просто html + css (возможно +js) код на 50-100 строчек!
 
 ### 🌟 Языки программирования и инструменты:
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="54" height="54" alt="PHP" /></a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="54" height="54" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="54" height="54" alt="MySQL" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="54" height="54" alt="Git" /></a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/gitlab.svg" alt="postman" width="54" height="54" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="54" height="54" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="54" height="54" alt="HTML5" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" /></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="48" height="48" alt="laravel" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" /></a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/gitlab.svg" alt="gitlab" width="48" height="48" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
   
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="54" height="54" /></a>
-  <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/steamworks_custom.svg" alt="unity" width="54" height="54" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/brand-icons/brands/blob/master/icons/color/visualstudiocode.svg" width="54" height="54" alt="VS Code" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="54" height="54" alt="C#" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="54" height="54" alt="C++" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="48" height="48" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/brand-icons/brands/blob/master/icons/color/visualstudiocode.svg" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" /></a>
+  <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/logo-steamworks.svg" alt="steamworks" width="48" height="48" /></a>
   
 ### 🌟 Мои приоритеты СЕЙЧАС:
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="54" height="54" alt="PHP" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="54" height="54" alt="Docker" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="54" height="54" alt="PostgreSQL" /></a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/gitlab.svg" alt="postman" width="54" height="54" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/linux.svg" alt="linux" width="54" height="54" /></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="48" height="48" alt="laravel" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/gitlab.svg" alt="gitlab" width="48" height="48" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/linux.svg" alt="linux" width="48" height="48" /></a>
   
 ### 🌟 Хочу освоить в будущем:
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="54" height="54" alt="Blender" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="48" height="48" alt="Blender" /></a>
   
 ### 👀 Мои контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram)](https://t.me/user1883)
