@@ -23,8 +23,7 @@
 правами пользователей](https://github.com/TheKompreso/simple-permission-engine), [Session manager](https://github.com/TheKompreso/session-manager).
 
 Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
-- 2024г. Перевод ряда сайтов на Laravel, разработка сайта с открытым кодом для реализации вышеперечисленного стека - [репозиторий](
-(https://github.com/thekompreso/laravel-site) , [gamespotlight.site](https://gamespotlight.site).
+- 2024г. Перевод ряда сайтов на Laravel, разработка сайта с открытым кодом для реализации вышеперечисленного стека -  [gamespotlight.site](https://gamespotlight.site), [исходный код](https://github.com/thekompreso/laravel-site).
 
 ### 🔨 Прочие проекты/репозитории:
 - С 2020 по 2023 использовал C# (Unity) для курсовых работ ([пример](https://github.com/twentypoundbird/SMTU_2_COURSE)) и [дипломного проекта](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work) (симулятор управляемого подводного аппарата с компьютерным зрением, библиотека OpenCV, C++).
