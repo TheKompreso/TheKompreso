@@ -13,12 +13,12 @@
 Стек PHP, html+css, MySQL, Composer:
 - 2019г. Сайт для мультиссылок с личным кабинетом пользователя для редактирования ссылок и просмотра статистики посещения ([lnk-to.ru](lnk-to.ru), [mickrize.ru](mickrize.ru)).
 - 2020г. Сайт-визитка для инди-студии ([twentypoundbird.com](twentypoundbird.com)).
-- 2020г. Сайт для проекта samp ([survival-rp.ru](survival-rp.ru)).
+- 2020г. Сайт для проекта samp ([survivalrp.ru](survival-rp.ru)).
 - 2021г. Доработка сайта: подключение платёжной системы с использованием стороннего API. 
-- 2021г. Разработка интернет магазина ([ttli.ru](https://ttli.ru)      
+- 2021г. Разработка интернет магазина ([ttli.ru](https://ttli.ru))
 - 2021г. Разработка API сервиса для авторизации на сторонних ресурсах
 - 2021г. Разработка сервиса для синхронизации и облачного хранения данных
-- 2023г. Доработка сайта ([survival-rp.ru](survival-rp.ru)): Внедрение сервиса оплаты, интеграция со сторонними сервисами
+- 2023г. Доработка сайта ([survivalrp.ru](survival-rp.ru)): Внедрение сервиса оплаты, интеграция со сторонними сервисами
 - 2023г. Разработка мини-библиотек: [шаблон построения сайта](https://github.com/TheKompreso/blank-website-template), [система управления ссылками](https://github.com/TheKompreso/url-database-engine), [антибрудфорс](https://github.com/TheKompreso/brute-force-protection), [управление
 правами пользователей](https://github.com/TheKompreso/simple-permission-engine), [Session manager](https://github.com/TheKompreso/session-manager).
 
