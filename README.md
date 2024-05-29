@@ -10,7 +10,7 @@
 <h1> </h1>
 
 ### 🌏 Опыт веб-разработки
-Стек PHP, html+css, MySQL, Composer):
+Стек PHP, html+css, MySQL, Composer:
 - 2019г. Сайт для мультиссылок, с личным кабинетом пользователя ([lnk-to.ru](lnk-to.ru), [mickrize.ru](mickrize.ru)).
 - 2020г. Сайт-визитка для инди-студии ([twentypoundbird.com](twentypoundbird.com)).
 - 2020г. Сайт для проекта samp ([survival-rp.ru](survival-rp.ru)).
