@@ -19,8 +19,7 @@
 - 2021г. Разработка API сервиса для авторизации на сторонних ресурсах
 - 2021г. Разработка сервиса для синхронизации и облачного хранения данных
 - 2023г. Доработка сайта ([survivalrp.ru](https://survivalrp.ru)): Внедрение сервиса оплаты, интеграция со сторонними сервисами
-- 2023г. Разработка мини-библиотек: [шаблон построения сайта](https://github.com/TheKompreso/blank-website-template), [система управления ссылками](https://github.com/TheKompreso/url-database-engine), [антибрудфорс](https://github.com/TheKompreso/brute-force-protection), [управление
-правами пользователей](https://github.com/TheKompreso/simple-permission-engine), [Session manager](https://github.com/TheKompreso/session-manager).
+- 2023г. Мои мини-библиотеки: [Шаблон построения сайта](https://github.com/TheKompreso/blank-website-template), [Система управления ссылками](https://github.com/TheKompreso/url-database-engine), [Антибрутфорс](https://github.com/TheKompreso/brute-force-protection), [Управление правами пользователей](https://github.com/TheKompreso/simple-permission-engine), [Session manager](https://github.com/TheKompreso/session-manager).
 
 Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 - 2024г. Перевод ряда сайтов на Laravel, разработка сайта с открытым кодом для реализации вышеперечисленного стека -  [gamespotlight.site](https://gamespotlight.site), [исходный код](https://github.com/thekompreso/laravel-site).
