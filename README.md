@@ -43,8 +43,8 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 <h1> </h1>
 
 ### 🔨 C#, Unity:
-- 2020г. Совместная [курсовая работа](https://github.com/twentypoundbird/SMTU_2_COURSE), сделанная в команде из 3 человек.
 - 2023г. [Дипломный проект](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work) - симулятор управляемого подводного аппарата с компьютерным зрением (библиотека OpenCV, C++).
+- 2020г. Совместная [курсовая работа](https://github.com/twentypoundbird/SMTU_2_COURSE), сделанная в команде из 3 человек.
 #### 🌟 Языки программирования и инструменты:
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/brand-icons/brands/blob/master/icons/color/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
