@@ -44,6 +44,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 
 ### 🔨 C#, Unity:
 - 2023г. <b>[Дипломный проект](https://github.com/TheKompreso/UUV-simulator-Graduation-Qualification-Work)</b> - симулятор управляемого подводного аппарата с компьютерным зрением (библиотека OpenCV, C++).
+- 2020г. Игра 'Кубические гонки' - [https://www.youtube.com/watch?v=jp_1i9IaQ9s](https://www.youtube.com/watch?v=jp_1i9IaQ9s). Создавалась в команде из 2х человек.
 - 2020г. Совместная <b>[курсовая работа](https://github.com/twentypoundbird/SMTU_2_COURSE)</b>, сделанная в команде из 3 человек.
 #### 🌟 Языки программирования и инструменты:
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="36" height="36" /></a>
