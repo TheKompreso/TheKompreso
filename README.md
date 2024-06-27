@@ -10,10 +10,13 @@
 <h1> </h1>
 
 ### 🌏 Web Development
+<details>
+<br>
+  
 Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 - 2024г. Перевод сайтов на Laravel:
-<br> [lnk-to.ru](https://lnk-to.ru) - <b>[исходный код](https://github.com/thekompreso/lnk-to.ru)</b>. Создана система динамичных URL (для создания своих страниц с уникальным URL и с собственным доменом - например https://mickrize.ru), система взаимосвязей моделей для быстрых переходов между артистами и их релизами, в том числе если артистов на релизе несколько (исходный код на GitHub).
-<br> [survival-rp.ru](https://survivalrp.ru) - Реализована маршрутизация, авторизация и двухэтапная регистрация, взаимодействие с платёжной системой ЮMoney, API. От старой версии сайта (самописный движок) остались только данные из базы и дизайн.
+<br>\- [lnk-to.ru](https://lnk-to.ru) - <b>[исходный код](https://github.com/thekompreso/lnk-to.ru)</b>. Создана система динамичных URL (для создания своих страниц с уникальным URL и с собственным доменом - например https://mickrize.ru), система взаимосвязей моделей для быстрых переходов между артистами и их релизами, в том числе если артистов на релизе несколько (исходный код на GitHub).
+<br>\- [survival-rp.ru](https://survivalrp.ru) - Реализована маршрутизация, авторизация и двухэтапная регистрация, взаимодействие с платёжной системой ЮMoney, API. От старой версии сайта (самописный движок) остались только данные из базы и дизайн.
 - 2024г. Разработка сайта с открытым кодом для реализации вышеперечисленного стека: [gamespotlight.site](https://gamespotlight.site) - <b>[исходный код](https://github.com/thekompreso/laravel-site)</b>.
 <br></br>
 
@@ -40,9 +43,13 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
 
+</details>
 <h1> </h1>
 
 ### 🔨 C#, Unity:
+<details>
+<br>
+  
 - 2024г. <b>[Big Tic Tie Toe](https://github.com/TheKompreso/BigTicTacToe)</b> (Большие крестики нолики). Грамматно продумная логика кода позволяет легко расширять функционал и добавлять новые игровые режимы, не создавая код с нуля. В игре есть несколько игровых режимов, возможность пользовательского варианта игры, игра с ИИ.
 - 2023-2024г. Dread Mine (в разработке) - Roguelite 3D шутер от первого лица. Игрок попадает в вечно-меняющийся мир, где ему предстоит сражаться с монстрами. О моей работе:
 <br>\- полная интеграция с Steam (достижения, инвентарь, игровые статусы, поддержка workshop)
@@ -65,7 +72,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
   <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/logo-steamworks.svg" alt="steamworks" width="36" height="36" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
-
+</details>
 <!---- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> 
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="36" height="36" alt="laravel" /></a>
