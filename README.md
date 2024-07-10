@@ -63,7 +63,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 <br>\- Серверная часть (была выгрузка данных в базу данных SQL, синхронизация аккаунта, список лучших игроков).
 <br>\- UI (меню, настройки, связь с серверной частью).
 <br>\- API на сервере для загрузки и выгрузки данных.
-- 2020г. Совместная <b>[курсовая работа](https://github.com/20pb/SMTU_2_COURSE/blob/master/Николенко%20Курсовая%20работа%20по%20ООП.pdf)</b>, сделанная в команде из 3 человек.
+- 2020г. Совместная <b>[курсовая работа](https://github.com/twentypoundbird/SMTU_2_COURSE/blob/master/Николенко%20Курсовая%20работа%20по%20ООП.pdf)</b>, сделанная в команде из 3 человек.
 #### 🌟 Языки программирования и инструменты:
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="unity" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/brand-icons/brands/blob/master/icons/color/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
