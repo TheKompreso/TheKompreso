@@ -41,6 +41,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+ <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
   <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
 
 </details>
@@ -71,6 +72,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/logo-steamworks.svg" alt="steamworks" width="36" height="36" /></a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+ <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
   <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
 </details>
 <!---- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> 
