@@ -47,7 +47,7 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
 </details>
 <h1> </h1>
 
-### 🔨 C#, Unity:
+### 🔨 C#, Unity
 <details>
 <br>
   
@@ -71,21 +71,20 @@ Cтек PHP, Laravel, REST API, MySQL, html+css, Composer:
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://partner.steamgames.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/logo-steamworks.svg" alt="steamworks" width="36" height="36" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
- <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"><img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/gitlab.svg" width="36" height="36" alt="GitLab" /></a>
   <a href="https://tortoisegit.org" target="_blank" rel="noreferrer"> <img src="https://github.com/TheKompreso/TheKompreso/blob/master/source/brands/tortoisegit.svg" alt="tortoisegit" width="36" height="36" /></a>
 </details><p>
-<!---- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> 
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
- <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="36" height="36" alt="laravel" /></a>
- <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/gitlab.svg" alt="gitlab" width="36" height="36" /></a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/linux.svg" alt="linux" width="36" height="36" /></a>
-  
-### 🌟 Хочу освоить в будущем:
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a> ---->
 
 <h1> </h1>
 
-### 👀 Мои контакты:
-[![Telegram](https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram)](https://t.me/id65536)
-![GMail](https://img.shields.io/badge/encrypt@internet.ru-273254?style=for-the-badge&logo=GMail)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheKompreso&color=green">
+</p>
+
+<!----
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> 
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/brand-icons/brands/blob/master/icons/color/linux.svg" alt="linux" width="36" height="36" /></a>
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+---->
